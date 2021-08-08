@@ -1,3 +1,2 @@
- Nay Oo Kyaw
- nayookyaw.nok@gmail.com
-
+Developed by Nay Oo Kyaw
+nayookyaw.nok@gmail.com
